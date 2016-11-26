@@ -1,0 +1,13 @@
+C:\Projects\Github\SeleniumFramework\SeleniumFramework\SeleniumFrameworkTests\bin\Debug\SeleniumFrameworkTests.dll
+C:\Projects\Github\SeleniumFramework\SeleniumFramework\SeleniumFrameworkTests\bin\Debug\SeleniumFrameworkTests.pdb
+C:\Projects\Github\SeleniumFramework\SeleniumFramework\SeleniumFrameworkTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Projects\Github\SeleniumFramework\SeleniumFramework\SeleniumFrameworkTests\obj\Debug\SeleniumFrameworkTests.csprojResolveAssemblyReference.cache
+C:\Projects\Github\SeleniumFramework\SeleniumFramework\SeleniumFrameworkTests\obj\Debug\SeleniumFrameworkTests.dll
+C:\Projects\Github\SeleniumFramework\SeleniumFramework\SeleniumFrameworkTests\obj\Debug\SeleniumFrameworkTests.pdb
+C:\Projects\Github\SeleniumFramework\SeleniumFramework\SeleniumFrameworkTests\bin\Debug\SeleniumFramework.dll
+C:\Projects\Github\SeleniumFramework\SeleniumFramework\SeleniumFrameworkTests\bin\Debug\SeleniumFramework.pdb
+C:\Projects\Github\SeleniumFramework\SeleniumFramework\SeleniumFrameworkTests\bin\Debug\WebDriver.dll
+C:\Projects\Github\SeleniumFramework\SeleniumFramework\SeleniumFrameworkTests\bin\Debug\WebDriver.xml
+C:\Projects\Github\SeleniumFramework\SeleniumFramework\SeleniumFrameworkTests\bin\Debug\WebDriver.Support.dll
+C:\Projects\Github\SeleniumFramework\SeleniumFramework\SeleniumFrameworkTests\bin\Debug\WebDriver.Support.xml
+C:\Projects\Github\SeleniumFramework\SeleniumFramework\SeleniumFrameworkTests\bin\Debug\SeleniumFrameworkTests.dll.config

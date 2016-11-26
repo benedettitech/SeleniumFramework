@@ -1,0 +1,9 @@
+C:\Projects\Github\SeleniumFramework\SeleniumFramework\SeleniumFramework\bin\Debug\SeleniumFramework.dll
+C:\Projects\Github\SeleniumFramework\SeleniumFramework\SeleniumFramework\bin\Debug\SeleniumFramework.pdb
+C:\Projects\Github\SeleniumFramework\SeleniumFramework\SeleniumFramework\obj\Debug\SeleniumFramework.dll
+C:\Projects\Github\SeleniumFramework\SeleniumFramework\SeleniumFramework\obj\Debug\SeleniumFramework.pdb
+C:\Projects\Github\SeleniumFramework\SeleniumFramework\SeleniumFramework\bin\Debug\WebDriver.dll
+C:\Projects\Github\SeleniumFramework\SeleniumFramework\SeleniumFramework\bin\Debug\WebDriver.xml
+C:\Projects\Github\SeleniumFramework\SeleniumFramework\SeleniumFramework\bin\Debug\WebDriver.Support.dll
+C:\Projects\Github\SeleniumFramework\SeleniumFramework\SeleniumFramework\bin\Debug\WebDriver.Support.xml
+C:\Projects\Github\SeleniumFramework\SeleniumFramework\SeleniumFramework\obj\Debug\SeleniumFramework.csprojResolveAssemblyReference.cache
