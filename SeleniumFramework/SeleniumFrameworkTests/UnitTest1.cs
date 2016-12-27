@@ -14,7 +14,6 @@ namespace SeleniumFrameworkTests
         private string superusername = ConfigurationManager.AppSettings["superusername"];
         private string superuserpassword = ConfigurationManager.AppSettings["superuserpassword"];
 
-
         [TestMethod]
         public void LoginAsUser()
         {

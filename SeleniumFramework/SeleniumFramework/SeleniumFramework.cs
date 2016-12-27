@@ -1,5 +1,6 @@
 ﻿using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Remote;
 using OpenQA.Selenium.Support.UI;
 using System;
 
@@ -11,7 +12,8 @@ namespace SeleniumFramework
 
         public static void Login(Uri environment, string username, string password)
         {
-            IWebDriver driver = new ChromeDriver(@"C:\Libraries\");
+            //IWebDriver driver = new ChromeDriver(@"C:\Libraries\");
+            IWebDriver driver = new RemoteWebDriver(new Uri("http://ec2-54-200-199-56.us-west-2.compute.amazonaws.com:4444/wd/hub"), DesiredCapabilities.Chrome());
             driver.Navigate().GoToUrl(environment);
             driver.SwitchTo().Frame("gsft_main");
             driver.FindElement(By.Name("user_name")).Click();
@@ -25,7 +27,8 @@ namespace SeleniumFramework
 
         private static IWebDriver InternalLogin(Uri environment, string username, string password)
         {
-            IWebDriver driver = new ChromeDriver(@"C:\Libraries\");
+            //IWebDriver driver = new ChromeDriver(@"C:\Libraries\");
+            IWebDriver driver = new RemoteWebDriver(new Uri("http://ec2-54-200-199-56.us-west-2.compute.amazonaws.com:4444/wd/hub"), DesiredCapabilities.Chrome());
             driver.Navigate().GoToUrl(environment);
             driver.SwitchTo().Frame("gsft_main");
             driver.FindElement(By.Name("user_name")).Click();

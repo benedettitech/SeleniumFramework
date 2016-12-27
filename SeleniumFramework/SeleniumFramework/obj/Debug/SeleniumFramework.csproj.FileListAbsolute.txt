@@ -6,4 +6,5 @@ C:\Projects\Github\SeleniumFramework\SeleniumFramework\SeleniumFramework\bin\Deb
 C:\Projects\Github\SeleniumFramework\SeleniumFramework\SeleniumFramework\bin\Debug\WebDriver.xml
 C:\Projects\Github\SeleniumFramework\SeleniumFramework\SeleniumFramework\bin\Debug\WebDriver.Support.dll
 C:\Projects\Github\SeleniumFramework\SeleniumFramework\SeleniumFramework\bin\Debug\WebDriver.Support.xml
-C:\Projects\Github\SeleniumFramework\SeleniumFramework\SeleniumFramework\obj\Debug\SeleniumFramework.csprojResolveAssemblyReference.cache
+C:\Projects\Github\SeleniumFramework\SeleniumFramework\SeleniumFramework\bin\Debug\ThoughtWorks.Selenium.Core.dll
+C:\Projects\Github\SeleniumFramework\SeleniumFramework\SeleniumFramework\bin\Debug\ThoughtWorks.Selenium.Core.xml
